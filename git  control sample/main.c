@@ -40,6 +40,6 @@ int main()
     char fist[] = "please tell me any thing more difficulties";
     char secound[sizeof(fist)];
     rev_str(fist, secound, sizeof(fist));
-
+    printf("ver3");
     printf("oh++");
 }
